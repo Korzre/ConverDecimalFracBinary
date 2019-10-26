@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=num\ k_precis
+comment1.target=java.lang.String\ decimalToBinary(double,\ int)
+comment2.params=input
+comment2.target=java.lang.String\ reverse(java.lang.String)
+numComments=3
